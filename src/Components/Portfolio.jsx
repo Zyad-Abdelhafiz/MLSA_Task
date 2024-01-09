@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/robots-7855433_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "ai image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Deep Tech Glance",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Mobile Eye Disease Detection App leverages mobile technology for proactive healthcare. Combining data analysis with smartphone cameras, it offers an accessible tool for early detection and monitoring of various eye diseases, contributing to improvedmedical outcomes and patient care.",
+    url: "https://github.com/Zyad-Abdelhafiz/DEEP-TECH-GLANCE",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Unsafe water Deaths",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Tickrize: A decentralized airport ticket system, exclusive to XRP payments, awards NFT vouchers for specific ticket purchases. Addressing slow processing, high fees, and security concerns, the project also promotes cryptocurrency awareness in air travel.",
+    url: "https://github.com/Zyad-Abdelhafiz/Unsafe_water_Deaths",
   },
   {
-    title: "My Resume Site",
+    title: "Eye Diseases Using Fundus",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Led the ODIR project, using a 5,000-person ophthalmic database for intelligent recognition and classification of eye diseases. Initially trained on cataract cases, the model proved versatile across categories, indicating broader medical applications for diagnosis and treatment.",
+    url: "https://github.com/Zyad-Abdelhafiz/Eye-Diseases-Using-Fundus",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Museum",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Museum Project - Web Development: Built an interactive museum website using HTML, CSS, and JavaScript, with jQuery for styling,Bootstrap for layout, and Angular for dynamic buttons. Integrated ASP.NET for the Ticket Form and employed Firebase for efficient database management.",
+    url: "https://github.com/Zyad-Abdelhafiz/Museum",
   },
 ];
 
